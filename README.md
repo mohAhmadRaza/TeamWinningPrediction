@@ -19,7 +19,7 @@ nba-win-predictor/
     └── nba_win_predictor_colab.ipynb ← Optional: Upload Colab notebook
 ```
 
-````markdown
+
 # 🏀 NBA Win Predictor
 <img width="1908" height="922" alt="Image" src="https://github.com/user-attachments/assets/fec219d2-2613-4ef2-9f47-e6ebd0507961" />
 This project uses machine learning and real NBA statistics to **predict whether a basketball team will win** based on in-game features such as shooting %, assists, turnovers, and more. It also visualizes important factors contributing to victories in the NBA.
